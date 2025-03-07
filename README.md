@@ -27,11 +27,11 @@ Ein einfaches Bildgalerie-Projekt, das es ermöglicht, Bilder anzuzeigen, zu bew
 ## 🖼 Vorschau
 
 ### Beispielbild:
-![Galerie Bild](assets/screenshot1.JPG)
+![Galerie Bild](src/assets/screenshot1.JPG)
 
 ## 🎥 Demo-Video
 
-📹 [Hier klicken, um das Video anzusehen](assets/1741380767961.mp4)
+📹 [Hier klicken, um das Video anzusehen](src/assets/1741380767961.mp4)
 
 ---
 
