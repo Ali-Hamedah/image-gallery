@@ -22,6 +22,7 @@ Ein einfaches Bildgalerie-Projekt, das es ermöglicht, Bilder anzuzeigen, zu bew
 3. **Abhängigkeiten installieren (falls erforderlich):**
    ```bash
    npm install
+   npm run dev
    ```
 
 ## 🖼 Vorschau
