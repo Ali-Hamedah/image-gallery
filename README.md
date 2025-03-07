@@ -2,16 +2,37 @@
 
 Ein einfaches Bildgalerie-Projekt, das es ermöglicht, Bilder anzuzeigen, zu bewerten und zu filtern.
 
-## Features
+## 📌 Features
 
-- Bilder anzeigen
-- Like/Dislike-Funktionalität
-- Zeigen von Bildbeschreibungen
-- Responsive Design für verschiedene Bildschirmgrößen
+- 📷 Bilder anzeigen
+- 👍👎 Like/Dislike-Funktionalität
+- 📝 Zeigen von Bildbeschreibungen
+- 📱 Responsive Design für verschiedene Bildschirmgrößen
 
-## Installation
+## 📥 Installation
 
 1. **Repository klonen:**
    ```bash
    git clone https://github.com/Ali-Hamedah/image-gallery.git
-2ز 
+   ```
+2. **Zum Projektverzeichnis wechseln:**
+   ```bash
+   cd image-gallery
+   ```
+3. **Abhängigkeiten installieren (falls erforderlich):**
+   ```bash
+   npm install
+   ```
+
+## 🖼 Vorschau
+
+### Beispielbild:
+![Galerie Bild](assets/screenshot1.JPG)
+
+## 🎥 Demo-Video
+
+📹 [Hier klicken, um das Video anzusehen](assets/1741380767961.mp4)
+
+---
+
+💡 **Hinweis:** Falls das Video nicht direkt abgespielt wird, kannst du es mit einem externen Player öffnen.
